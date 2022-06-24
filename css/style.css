@@ -1,0 +1,47 @@
+.navbar {
+    position: fixed;
+}
+
+.nav-wrapper img {
+    height: 45px;
+    margin-right: 5px;
+    margin-top: 8px;
+}
+
+.nav-wrapper a {
+    margin-top: -3px;
+}
+
+.slider h3,
+.slider h5 {
+    text-shadow: 1px 1px 3px rgb(0, 0, 0,0.7 );
+}
+
+.parallax-container {
+    height: 20%;
+}
+
+.client h3 {
+    text-align: center;
+    font-weight: lighter ;
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.parallax img {
+    filter: grayscale(1);
+    opacity: 0.5 !important;
+}
+
+.client img {
+    max-width: 150px;
+    filter:drop-shadow(1px 1px 1px rgba(0,0,0,0.6))
+}
+
+.client .gojek {
+    margin-top: -2px;
+}
+
+.client .tokopedia {
+    margin-top: 5px;
+}
